@@ -6,8 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
    I am keenly interested in technical works and research. 
 baseurl: "/" 
 url: "https://anuagarwal1409.github.io/" 
-twitter_username: mlhacks
-github_username:  mlh-fellowship
+github_username:  anuagarwal1409
 
 sass:
   sass_dir: _sass
