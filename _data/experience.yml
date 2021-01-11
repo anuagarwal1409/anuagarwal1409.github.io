@@ -1,4 +1,9 @@
-- role: Open Source Fellow
-  company: MLH Fellowship
-  dates: Summer 2020
+- role: Data Science Intern
+  company: Sparks Foundation
+  dates: October 2020
+  logo: fellowship.svg
+  
+  - role: Data Science Mentor
+  company: Data Science Group
+  dates: July 2019
   logo: fellowship.svg
